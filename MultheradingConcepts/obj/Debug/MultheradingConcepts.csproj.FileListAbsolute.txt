@@ -1,0 +1,6 @@
+D:\BestPractices\MultheradingConcepts\MultheradingConcepts\bin\Debug\MultheradingConcepts.exe.config
+D:\BestPractices\MultheradingConcepts\MultheradingConcepts\bin\Debug\MultheradingConcepts.exe
+D:\BestPractices\MultheradingConcepts\MultheradingConcepts\bin\Debug\MultheradingConcepts.pdb
+D:\BestPractices\MultheradingConcepts\MultheradingConcepts\obj\Debug\MultheradingConcepts.csprojResolveAssemblyReference.cache
+D:\BestPractices\MultheradingConcepts\MultheradingConcepts\obj\Debug\MultheradingConcepts.exe
+D:\BestPractices\MultheradingConcepts\MultheradingConcepts\obj\Debug\MultheradingConcepts.pdb
